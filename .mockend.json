@@ -1,4 +1,3 @@
 {
-    "Post": { { "name": { "string": ["Thor"] } } }
-
-}
+    "Post": {  "name": { "string": ["Thor"] } }
+ }
