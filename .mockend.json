@@ -1,4 +1,4 @@
 {
-    "Post": [   {"title": "Hello"}, {"title": "Hello world"} ]
+    "Post": { { "name": { "string": ["Thor"] } } }
 
 }
